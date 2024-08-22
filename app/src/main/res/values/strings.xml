@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">MyRestaurant</string>
+    <string name="app_menu">Conoce nuestro menu</string>
+    <string name="app_sede">Visita nuestras sedes</string>
+    <string name="app_pedido">Realiza tu pedido</string>
+    <string name="app_reserva">Reserva tu mesa</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+
+    <string name='entrada1'>Sopa de Macaco</string>
+    <string name='entrada2'>Empanadas</string>
+    <string name='entrada3'>Patacones</string>
+
+    <string name='ing_entrada1'>Macaco, Agua limpia(opcional), rica banana</string>
+    <string name='ing_entrada2'>Papa, harina pan(venezolana), proteina(opcional)</string>
+    <string name='ing_entrada3'>platano, queso, jamon</string>
+
+
+    <string name='prec_entrada1'>14.999</string>
+    <string name='prec_entrada2'>7.999</string>
+    <string name='prec_entrada3'>10.999</string>
+
+
+    <string name='plato1'>Macaquinho</string>
+    <string name='plato2'>Barreado</string>
+    <string name='plato3'>Frijolinha</string>
+
+    <string name='ing_plato1'>250gr de Macaco</string>
+    <string name='ing_plato2'>Banano,Arroz y 150gr de Carne desmechadinha</string>
+    <string name='ing_plato3'>Frijolinhos oscuros, Arroz, Ensalada y Proteina animal</string>
+
+
+    <string name='prec_plato1'>26.900</string>
+    <string name='prec_plato2'>18.900</string>
+    <string name='prec_plato3'>23.900</string>
+
+
+    <string name='bebida1'>Jugo Acai</string>
+    <string name='bebida2'>Jugo de Copoazu</string>
+    <string name='bebida3'>Batido de caju</string>
+
+    <string name='ing_bebida1'>Zumo de Acai importado desde Río</string>
+    <string name='ing_bebida2'>Fruta exotica brasileña licuada en agua</string>
+    <string name='ing_bebida3'>Fruta cajú brasileña licuada en leche</string>
+
+
+    <string name='prec_bebida1'>10.900</string>
+    <string name='prec_bebida2'>9.900</string>
+    <string name='prec_bebida3'>12.900</string>
+
+    <string name='postre1'>Brigadeiro</string>
+    <string name='postre2'>Pave</string>
+
+    <string name='ing_postre1'>Torta de chocolate, con chips y toque de la casa</string>
+    <string name='ing_postre2'>Galletas blandas, crema dulce y ricas frutas</string>
+
+
+    <string name='prec_postre1'>14.900</string>
+    <string name='prec_postre2'>12.900</string>
+
+
+
+</resources>
